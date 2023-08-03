@@ -1,4 +1,7 @@
-READ ME:
-Main.java must be run for gui to work properly
-The other are pages and all have codes in them that connect to
-the database.
+Main.java must be run for gui to work as intended.
+
+The other .java's are pages and all have codes in them that connect to the database and
+use SQL statements such as SELECT, INSERT, UPDATE, and DELETE.
+
+In this application, the user will be able to register, login, update and delete their account.
+At the moment, this application is solely meant to deal only with account creation/settings.
